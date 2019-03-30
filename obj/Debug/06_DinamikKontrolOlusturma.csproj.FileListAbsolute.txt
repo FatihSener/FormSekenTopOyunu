@@ -1,0 +1,10 @@
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\bin\Debug\06_DinamikKontrolOlusturma.exe.config
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\bin\Debug\06_DinamikKontrolOlusturma.exe
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\bin\Debug\06_DinamikKontrolOlusturma.pdb
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\_06_DinamikKontrolOlusturma.FormSekenToplar.resources
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\_06_DinamikKontrolOlusturma.Properties.Resources.resources
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\06_DinamikKontrolOlusturma.csproj.GenerateResource.cache
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\06_DinamikKontrolOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\06_DinamikKontrolOlusturma.exe
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\06_DinamikKontrolOlusturma.pdb
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\06_DinamikKontrolOlusturma\obj\Debug\_06_DinamikKontrolOlusturma.FormFlowLayoutPanelKullanimi.resources
